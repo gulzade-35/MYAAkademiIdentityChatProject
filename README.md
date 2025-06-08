@@ -32,3 +32,15 @@ Temel Özellikler:
 
 📊 Dashboard:
 
+![Image](https://github.com/user-attachments/assets/2c26c653-3b13-4368-98ef-031162e9edf1)
+
+
+Mesajlar Bölümü:
+
+
+
+
+
+
+
+
