@@ -1,0 +1,78 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadComponentPartial")
+
+<body>
+
+    <div id="preloader">
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10" />
+            </svg>
+        </div>
+    </div>
+
+    <div id="main-wrapper">
+
+        @await Component.InvokeAsync("_NavbarComponentPartial")
+
+        @await Component.InvokeAsync("_SidebarComponentPartial")
+
+        <div class="content-body">
+            <div class="container-fluid mt-3">
+
+                @RenderBody()
+
+            </div>
+        </div>
+
+        @await Component.InvokeAsync("_FooterComponentPartial")
+
+    </div>
+
+    @await Component.InvokeAsync("_ScriptComponentPartial")
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Identity Chat</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Profilim</a></li>
+                <li><a href="/Message/Inbox/">Gelen Mesajlar</a></li>
+                <li><a href="/Message/Sendbox/">Giden Mesajlar</a></li>
+                <li><a href="/Message/CreateMessage/">Mesaj Oluştur</a></li>
+                <li><a href="/Login/UserLogin/">Giriş Yap</a></li>
+                <li><a href="/Register/CreateUser/">Kayıt Ol</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>*@
