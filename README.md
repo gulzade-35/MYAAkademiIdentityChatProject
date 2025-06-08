@@ -29,3 +29,6 @@ Temel Özellikler:
 ![Image](https://github.com/user-attachments/assets/67d95ad5-e534-4c8b-9c56-fc95dd3caf0d)
 
 ![Image](https://github.com/user-attachments/assets/90d323ab-9e8c-4700-98de-50ff88c95261)
+
+📊 Dashboard:
+
