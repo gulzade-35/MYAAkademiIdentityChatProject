@@ -18,3 +18,6 @@ Okundu/okunmadı durumu takibi, mesaj arama
 🛠️ Authentication & Authorization: Kullanıcıların güvenli bir şekilde giriş yapmalarını sağlayarak, roller ve yetkilendirme işlemlerini yönetir.
 🔄 Veritabanı Migrasyonları: Veritabanı yapısını güncelleme ve şemada yapılan değişiklikleri yönetme sürecini kolaylaştırır.
 🔒 Şifreleme ve Güvenlik: Kullanıcı şifrelerini güvenli bir şekilde saklamak için şifreleme teknikleri ve hashleme yöntemleri uygulanır.
+
+
+
