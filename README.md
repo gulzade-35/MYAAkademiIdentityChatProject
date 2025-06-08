@@ -35,7 +35,7 @@ Temel Özellikler:
 ![Image](https://github.com/user-attachments/assets/2c26c653-3b13-4368-98ef-031162e9edf1)
 
 
-Mesajlar Bölümü:
+📝 Mesaj Sayfaları:
 
 ![Image](https://github.com/user-attachments/assets/b2b46f01-a91f-4826-8dc6-8e9324296477)
 
@@ -46,7 +46,6 @@ Mesajlar Bölümü:
 ![Image](https://github.com/user-attachments/assets/c153d0ab-eb25-40da-b153-45d9f6c7f637)
 
 
-
-
+👤 Profil Sayfası:
 
 
