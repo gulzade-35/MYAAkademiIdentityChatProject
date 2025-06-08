@@ -37,7 +37,13 @@ Temel Özellikler:
 
 Mesajlar Bölümü:
 
+![Image](https://github.com/user-attachments/assets/b2b46f01-a91f-4826-8dc6-8e9324296477)
 
+![Image](https://github.com/user-attachments/assets/12e2e348-8f41-4474-8382-a1af9d0c583f)
+
+![Image](https://github.com/user-attachments/assets/442e1e66-eeaa-494a-9fc1-4fbbd76812c6)
+
+![Image](https://github.com/user-attachments/assets/c153d0ab-eb25-40da-b153-45d9f6c7f637)
 
 
 
