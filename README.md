@@ -48,4 +48,4 @@ Temel Özellikler:
 
 👤 Profil Sayfası:
 
-
+![Image](https://github.com/user-attachments/assets/74c4b20f-9f1d-413b-a6ad-d341133f8183)
