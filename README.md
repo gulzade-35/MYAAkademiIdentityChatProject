@@ -14,13 +14,13 @@ Temel Özellikler:
  * Okundu/okunmadı durumu takibi, mesaj arama
 
 🛠️ Kullanılan Teknolojiler
-⚡ ASP.NET Core 8.0: Modern web uygulamaları geliştirmek için güçlü, esnek ve yüksek performanslı framework.
-🔑 ASP.NET Core Identity: Kullanıcı kimlik doğrulama, güvenlik ve yetkilendirme işlemleri için kapsamlı bir yapı.
-🎨 Razor Views & Partial Views: Dinamik ve sürdürülebilir kullanıcı arayüzleri geliştirmeye olanak tanır, sayfa bileşenlerini modüler hale getirir.
-⚙️ Dependency Injection (DI): Uygulamanın bağımlılıklarını yönetmek, esnek ve test edilebilir bir yapı oluşturmak için kullanılır.
-🛠️ Authentication & Authorization: Kullanıcıların güvenli bir şekilde giriş yapmalarını sağlayarak, roller ve yetkilendirme işlemlerini yönetir.
-🔄 Veritabanı Migrasyonları: Veritabanı yapısını güncelleme ve şemada yapılan değişiklikleri yönetme sürecini kolaylaştırır.
-🔒 Şifreleme ve Güvenlik: Kullanıcı şifrelerini güvenli bir şekilde saklamak için şifreleme teknikleri ve hashleme yöntemleri uygulanır.
+ * ⚡ ASP.NET Core 8.0: Modern web uygulamaları geliştirmek için güçlü, esnek ve yüksek performanslı framework.
+ * 🔑 ASP.NET Core Identity: Kullanıcı kimlik doğrulama, güvenlik ve yetkilendirme işlemleri için kapsamlı bir yapı.
+ * 🎨 Razor Views & Partial Views: Dinamik ve sürdürülebilir kullanıcı arayüzleri geliştirmeye olanak tanır, sayfa bileşenlerini modüler hale getirir.
+ * ⚙️ Dependency Injection (DI): Uygulamanın bağımlılıklarını yönetmek, esnek ve test edilebilir bir yapı oluşturmak için kullanılır.
+ * 🛠️ Authentication & Authorization: Kullanıcıların güvenli bir şekilde giriş yapmalarını sağlayarak, roller ve yetkilendirme işlemlerini yönetir.
+ * 🔄 Veritabanı Migrasyonları: Veritabanı yapısını güncelleme ve şemada yapılan değişiklikleri yönetme sürecini kolaylaştırır.
+ * 🔒 Şifreleme ve Güvenlik: Kullanıcı şifrelerini güvenli bir şekilde saklamak için şifreleme teknikleri ve hashleme yöntemleri uygulanır.
 
 🧰 Uygulama Detayları
 
